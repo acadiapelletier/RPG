@@ -1,4 +1,4 @@
-## [Prerelease Version]
+## [Prelease Version]
 
 items = ['Key' , 'Magic Wand' , 'Secret Spellbook']
 spells = ['Flame Thrower', 'Special Attack', 'Final Blow']
