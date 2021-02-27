@@ -1,19 +1,19 @@
-# Quits the game if the player inputs
-# 'quit game' option during the game
+# Main menu, start screen
 
-def quit_game():
-  prompt = """Are you sure you want to quit?
-(type yes or no) """
+print("""Welcome to [REDACTED]
+Choose one of the following options: \n*start game \n*quit""")
 
-  while True:
-    key = input(prompt)
+prompt = 'ACTION: '
 
-    if key == 'yes':
-      print("Quitting game...")
-      import sys
-      sys.exit()
-    elif key == 'no':
-      print("Continue gameplay...")
-      break
-    else:
-      "Huh?"
+while True:
+  key = input(prompt)
+
+  if key == 'start game':
+    print("Starting game...")
+    import game as game
+  elif key == 'quit':
+    print("Quitting game...")
+    import sys
+    sys.exit()
+  else:
+    print("Try again")
