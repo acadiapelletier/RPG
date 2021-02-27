@@ -1,8 +1,8 @@
 # Import necessary files
 import inventory as inv
 import quit_game as qg
-import optionleft as ol
-import optionstraight as os
+import option_left as ol
+import option_straight as os
 
 # Start of the game
 print(" ")
