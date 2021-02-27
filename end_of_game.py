@@ -3,7 +3,7 @@
 # To the player
 import quit_game as qg
 import inventory as inv
-import losegame as lg
+import lose_game as lg
 spells = ['flame thrower', 'special attack',
 'final blow']
 
