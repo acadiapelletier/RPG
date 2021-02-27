@@ -10,3 +10,6 @@ v 1.1
 
 v 1.2 
   Sorted inventory and enemy info into classes
+  
+v 1.3
+  Final game zip was uploaded to the repository, still waiting for beta testing
