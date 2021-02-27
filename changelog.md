@@ -1,4 +1,4 @@
-# RPG: Flee the Capture Changelog
+# RPG: [REDACTED] Changelog
 
 (Work in progress)
 
