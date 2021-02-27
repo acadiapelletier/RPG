@@ -12,4 +12,11 @@ v 1.2
   Sorted inventory and enemy info into classes
   
 v 1.3
-  Final game zip was uploaded to the repository, still waiting for beta testing
+  Final game zip was uploaded to the repository, still waiting for beta testing.
+  Alpha testing complete, fixed some import loops.
+
+v 1.4
+  BETA Testing complete. Fixed some print issues, added a missed break in some while loops, 
+  and file naming error. Testers had some trouble with the input of "magic spellbook" vs the title "Magic Spellbook", 
+  error was resolved.
+  Completed zip file was uploaded to github RPG repository. 
